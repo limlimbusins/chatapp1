@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-limlimchatapp-dev-141634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658851054573:role/amplify-limlimchatapp-dev-141634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658851054573:role/amplify-limlimchatapp-dev-141634-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-limlimchatapp-dev-141634-deployment",
+      "UnauthRoleName": "amplify-limlimchatapp-dev-141634-unauthRole",
+      "StackName": "amplify-limlimchatapp-dev-141634",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:658851054573:stack/amplify-limlimchatapp-dev-141634/102a9150-db29-11ec-b25b-0ab85d354f0c",
+      "AmplifyAppId": "d1mnv6rtjb9h3l"
+    }
+  }
+}
